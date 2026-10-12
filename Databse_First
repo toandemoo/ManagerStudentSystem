@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=DESKTOP-OV2K6SL\\SQLEXPRESS;Database=TaekwondoDB;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models -d --force --no-build

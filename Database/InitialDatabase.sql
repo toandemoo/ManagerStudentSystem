@@ -1,0 +1,8 @@
+CREATE DATABASE TaekwondoDB;
+GO
+
+USE TaekwondoDB;
+GO
+
+CREATE SCHEMA Taekwondo;
+GO
